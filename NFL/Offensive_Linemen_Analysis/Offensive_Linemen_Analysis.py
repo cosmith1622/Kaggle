@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 
-from pandas.io.formats.format import TextAdjustment
-
 
 def get_week_data():
     weeks = []
